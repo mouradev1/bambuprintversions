@@ -1,2 +1,3 @@
-bambuprint.exe
-*.old
+*
+!.gitignore
+!bambuprint-setup.zip
